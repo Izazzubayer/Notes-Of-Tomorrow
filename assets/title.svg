@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="532.132" height="81.605" viewBox="0 0 532.132 81.605">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255,186,0,0.5);
+      }
+
+      .cls-2 {
+        font-size: 52px;
+        font-family: AmericanTypewriter-Bold, American Typewriter;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_208" data-name="Group 208" transform="translate(-115.868 -97.654)">
+    <path id="Path_180" data-name="Path 180" class="cls-1" d="M40.479-12.671,159.1,0c23.861,2.368,33.808,15.222,33.808,34s-8.531,19.5-27.137,21.329L33.808,68C7.33,70.631,0,52.778,0,34S-4.593-18.537,40.479-12.671Z" transform="translate(116 111)"/>
+    <text id="Notes_Of_Tomorrow" data-name="Notes Of Tomorrow" class="cls-2" transform="translate(140 156)"><tspan x="0" y="0">Notes Of Tomorrow</tspan></text>
+  </g>
+</svg>

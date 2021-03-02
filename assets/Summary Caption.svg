@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1286" height="108.5" viewBox="0 0 1286 108.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-5 {
+        fill: #292929;
+      }
+
+      .cls-1 {
+        font-size: 36px;
+        font-family: NiveauGroteskBold, Niveau Grotesk;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+      }
+
+      .cls-2, .cls-5 {
+        font-family: NiveauGroteskRegular, Niveau Grotesk;
+      }
+
+      .cls-3 {
+        fill: #ffba00;
+      }
+
+      .cls-4, .cls-6, .cls-8 {
+        fill: none;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #000;
+      }
+
+      .cls-4 {
+        stroke-width: 8px;
+      }
+
+      .cls-5 {
+        font-size: 20px;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_179" data-name="Group 179" transform="translate(-131 -244)">
+    <g id="Group_163" data-name="Group 163" transform="translate(0 -15)">
+      <g id="Group_109" data-name="Group 109" transform="translate(-12 7)">
+        <g id="Group_21" data-name="Group 21" transform="translate(152 298)">
+          <text id="Think_Grow_Rich" data-name="Think &amp; Grow Rich" class="cls-1" transform="translate(0 -13)"><tspan x="0" y="0">Think &amp; Grow Rich</tspan></text>
+          <text id="Think_and_Grow_Rich_was_written_by_Napoleon_Hill_in_1937_and_promoted_as_a_personal_development_and_self-improvement_book._He_claimed_to_be_inspired_by_a_suggestion_from_business_magnate_and_later-philanthropist_Andrew_Carnegie." data-name="Think and Grow Rich was written by Napoleon Hill in 1937 and promoted as a personal 
+development and self-improvement book. He claimed to be inspired by a suggestion from 
+business magnate and later-philanthropist Andrew Carnegie." class="cls-2" transform="translate(340 -24)"><tspan x="0" y="0">Think and Grow Rich was written by Napoleon Hill in 1937 and promoted as a personal </tspan><tspan x="0" y="40">development and self-improvement book. He claimed to be inspired by a suggestion from </tspan><tspan x="0" y="80">business magnate and later-philanthropist Andrew Carnegie.</tspan></text>
+        </g>
+      </g>
+      <g id="Group_162" data-name="Group 162" transform="translate(-308 34)">
+        <path id="Icon_awesome-star" data-name="Icon awesome-star" class="cls-3" d="M12.005.787,9.116,6.644l-6.463.942A1.416,1.416,0,0,0,1.87,10l4.676,4.556L5.44,20.994a1.415,1.415,0,0,0,2.053,1.491l5.782-3.039,5.782,3.039a1.416,1.416,0,0,0,2.053-1.491L20,14.558,24.679,10A1.416,1.416,0,0,0,23.9,7.586l-6.463-.942L14.544.787a1.417,1.417,0,0,0-2.539,0Z" transform="translate(446.559 310.001)"/>
+        <path id="Icon_awesome-star-2" data-name="Icon awesome-star" class="cls-3" d="M12.005.787,9.116,6.644l-6.463.942A1.416,1.416,0,0,0,1.87,10l4.676,4.556L5.44,20.994a1.415,1.415,0,0,0,2.053,1.491l5.782-3.039,5.782,3.039a1.416,1.416,0,0,0,2.053-1.491L20,14.558,24.679,10A1.416,1.416,0,0,0,23.9,7.586l-6.463-.942L14.544.787a1.417,1.417,0,0,0-2.539,0Z" transform="translate(476.142 310.001)"/>
+        <path id="Icon_awesome-star-3" data-name="Icon awesome-star" class="cls-3" d="M12.005.787,9.116,6.644l-6.463.942A1.416,1.416,0,0,0,1.87,10l4.676,4.556L5.44,20.994a1.415,1.415,0,0,0,2.053,1.491l5.782-3.039,5.782,3.039a1.416,1.416,0,0,0,2.053-1.491L20,14.558,24.679,10A1.416,1.416,0,0,0,23.9,7.586l-6.463-.942L14.544.787a1.417,1.417,0,0,0-2.539,0Z" transform="translate(505.725 310.001)"/>
+        <path id="Icon_awesome-star-4" data-name="Icon awesome-star" class="cls-3" d="M12.005.787,9.116,6.644l-6.463.942A1.416,1.416,0,0,0,1.87,10l4.676,4.556L5.44,20.994a1.415,1.415,0,0,0,2.053,1.491l5.782-3.039,5.782,3.039a1.416,1.416,0,0,0,2.053-1.491L20,14.558,24.679,10A1.416,1.416,0,0,0,23.9,7.586l-6.463-.942L14.544.787a1.417,1.417,0,0,0-2.539,0Z" transform="translate(535.309 310.001)"/>
+        <path id="Icon_awesome-star-half-alt" data-name="Icon awesome-star-half-alt" class="cls-3" d="M22.454,7.573l-6.463-.941L13.1.786a1.418,1.418,0,0,0-2.539,0L7.675,6.631l-6.463.94a1.413,1.413,0,0,0-.783,2.41L5.1,14.53,4,20.953a1.416,1.416,0,0,0,1.4,1.654,1.4,1.4,0,0,0,.657-.166l5.782-3.032,5.781,3.033a1.413,1.413,0,0,0,2.053-1.488l-1.105-6.424,4.676-4.547a1.413,1.413,0,0,0-.783-2.411Zm-5.375,5.44-.8.778.189,1.1L17.33,19.9,12.82,17.532l-.988-.518V3.009l2.253,4.561.494,1,1.1.161,5.044.734-3.649,3.549Z" transform="translate(566.334 310.232)"/>
+      </g>
+      <line id="Line_1" data-name="Line 1" class="cls-4" y2="108" transform="translate(453.5 259.5)"/>
+    </g>
+    <g id="Group_171" data-name="Group 171" transform="translate(0 -2)">
+      <text id="Napoleon_Hill" data-name="Napoleon Hill" class="cls-5" transform="translate(141 314)"><tspan x="0" y="0">Napoleon Hill</tspan></text>
+      <g id="Rectangle_37" data-name="Rectangle 37" class="cls-6" transform="translate(131 292)">
+        <rect class="cls-7" width="138" height="31" rx="11"/>
+        <rect class="cls-8" x="0.5" y="0.5" width="137" height="30" rx="10.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

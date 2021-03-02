@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="847" height="98" viewBox="0 0 847 98">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 24px;
+        font-family: NiveauGroteskBlack, Niveau Grotesk;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-7 {
+        filter: url(#Rectangle_2);
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_1);
+      }
+    </style>
+    <filter id="Rectangle_1" x="0" y="0" width="847" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2" x="0" y="0" width="170" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_207" data-name="Group 207" transform="translate(-729 -100)">
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, 729, 100)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" class="cls-1" width="817" height="68" rx="34" transform="translate(15 10)"/>
+    </g>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, 729, 100)">
+      <g id="Rectangle_2-2" data-name="Rectangle 2" class="cls-2" transform="translate(15 10)">
+        <rect class="cls-5" width="140" height="68" rx="34"/>
+        <rect class="cls-6" x="0.5" y="0.5" width="139" height="67" rx="33.5"/>
+      </g>
+    </g>
+    <text id="Intellect" class="cls-3" transform="translate(899 152)"><tspan x="0" y="0">Intellect</tspan></text>
+    <text id="Occupation" class="cls-3" transform="translate(1029 152)"><tspan x="0" y="0">Occupation</tspan></text>
+    <text id="Physique" class="cls-3" transform="translate(1194 152)"><tspan x="0" y="0">Physique</tspan></text>
+    <text id="Social" class="cls-3" transform="translate(1335 152)"><tspan x="0" y="0">Social</tspan></text>
+    <text id="Spiritual" class="cls-3" transform="translate(1441 152)"><tspan x="0" y="0">Spiritual</tspan></text>
+    <text id="Finance" class="cls-4" transform="translate(774 152)"><tspan x="0" y="0">Finance</tspan></text>
+  </g>
+</svg>

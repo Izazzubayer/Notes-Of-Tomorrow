@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="488" height="28" viewBox="0 0 488 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #292929;
+        font-size: 24px;
+        font-family: NiveauGroteskRegular, Niveau Grotesk;
+      }
+
+      .cls-2 {
+        font-family: NiveauGroteskBold, Niveau Grotesk;
+        fill: #000;
+      }
+    </style>
+  </defs>
+  <text id="Don_t_have_an_account_Sign_Up" data-name="Don’t have an account? Sign Up" class="cls-1"><tspan x="0" y="22">Don’t have an account? </tspan><tspan class="cls-2" y="22">Sign Up</tspan></text>
+</svg>
